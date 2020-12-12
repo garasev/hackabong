@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=0.8">
+    <title>Выявление кибербуллинга</title>
+
+    <link rel="stylesheet" href="https://cdn.discordapp.com/attachments/494556593807949827/787019305300394044/mega_6.css">
+</head>
+<body>
+    <form method="POST">
+        <div class="content">
+            <div class="container">
+                <div class="input-file">
+                    <h2 class="res_text"> Введите исправляемый сайт</h2>
+                    <input type="text" class="header-input" placeholder="Ссылка на сайт" name="link_input"/>
+                    <button formaction="/enter" class="header-search-btn btn">Форматировать</button>
+                </div>
+                
+                <h2 class="res_text">Введите фразу</h2>
+                
+                <div class="wrapper">
+                   <div><textarea class="word" wrap="soft" value="{{ input_phrase }}" name='input'></textarea></div>
+                   <div><button formaction="/check" class="check-btn">Проверить</button></div>
+                </div>
+                <h2 class="res_text"> {{ output_res }} </h2>
+            </div>
+        </div>
+        <div>
+            <div class="container result">
+            {% for sent in sents %}
+                <p>{{ sent.text }} <button align=”right” class="flag-btn {{ sent.ctype }}" disabled>O</button></p>
+            {% endfor %}
+            </div>
+        </div>
+    </form> 
+</body>
+</html>

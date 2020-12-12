@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>DOTABUFF - Too Many Requests</title>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<style>
+    html {
+      background: #1C242D;
+      color: #C4C4C4;
+      font-family: "Lucida Grande", Tahoma, Verdana, Arial, sans-serif;
+      font-size: 14px;
+      width: 100%;
+      height: 100%;
+    }
+    body {
+      margin: 21% auto;
+      text-align: center;
+    }
+    p a {
+      color: #A9CF54;
+      text-decoration: none
+    }
+    #logo {
+      background: #ED3B1C;
+      color: #FFFFFF;
+      display: inline-block;
+      font-family: Arial;
+      font-weight: 800;
+      padding: 6px 12px;
+    }
+    #logo a {
+      color: #FFFFFF;
+      text-decoration: none;
+    }
+    #status {
+      font-weight: 200;
+      color: #FFFFFF;
+    }
+  </style>
+</head>
+<body>
+<h1 id="logo"><a href="/">DOTABUFF</a></h1>
+<h2 id="status">Too Many Requests</h2>
+<p>You have been rate limited for making too many requests. Please try again later.</p>
+<p><a href="/">Home</a> | <a href="/pages/about#support">Support</a></p>
+</body>
+</html>
+<!-- EDGE -->
+

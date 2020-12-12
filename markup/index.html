@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Разметка данных</title>
+
+    <link rel="stylesheet" href="https://cdn.discordapp.com/attachments/770960102898925578/782189560284184576/style.css">
+</head>
+<body>
+    <form method="POST">
+        <header class="header">
+            <div class="container">
+                <div class="input-file">
+                    <input type="text" class="header-input" placeholder="Имя файла" name="input" value="{{ f_name }}"/>
+                    <button formaction="/enter" class="header-search-btn btn">Enter</button>
+                </div>
+            </div>
+        </header>
+        <div class="content">
+            <div class="container">
+                <h2 class="pre">А не кибербуллинг ли это?..</h2>
+                <div class="text">
+                    <b>{{ output }}</b>
+                </div>
+            </div>
+        </div>
+        <div>
+            <div class="container choice">
+                <button formaction="/net" class="choice-btn net">Не кибербуллинг</button>
+                <button formaction="/da" class="choice-btn da">Кибербуллинг</button>
+            </div>
+        </div>
+    </form> 
+</body>
+</html>

